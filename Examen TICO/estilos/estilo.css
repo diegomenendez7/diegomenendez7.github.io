@@ -10,7 +10,7 @@ p {
   width: 250px;
   height: 150px;
   box-sizing: content-box;
-  border: red 25px solid;
+  border: red 20px solid;
 }
 p {
   text-emphasis: triangle red;
