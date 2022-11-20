@@ -14,6 +14,12 @@ p {
   box-sizing: content-box;
   border: red 25px solid;
 }
+p {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blue;
+}
+
 
 
 
