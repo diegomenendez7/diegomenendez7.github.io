@@ -16,6 +16,9 @@ p {
   text-emphasis: triangle red;
 }
 p {
+  font-size: medium;
+}
+p {
   line-height: 200%;
 }
 
