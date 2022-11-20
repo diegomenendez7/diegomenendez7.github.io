@@ -15,6 +15,9 @@ p {
   border: red 25px solid;
 }
 p {
+  text-decoration: underline wavy red;
+}
+p {
   text-decoration-line: underline;
   text-decoration-style: wavy;
   text-decoration-color: blue;
