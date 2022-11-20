@@ -7,10 +7,10 @@ p {
   color: red;
 }
 p {
-  width: 250px;
-  height: 150px;
+  width: 200px;
+  height: 100px;
   box-sizing: content-box;
-  border: red 20px solid;
+  border: red 25px solid;
 }
 p {
   text-emphasis: triangle red;
