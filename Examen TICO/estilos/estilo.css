@@ -31,10 +31,17 @@ table {
 td, th {
   border: black 1px solid;
 }
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 caption {
   background-color: lightblue;
   text-align: right;
+}
+html {
+  background: lightblue url("fondoarcoiris.webp");
 }
 
 
