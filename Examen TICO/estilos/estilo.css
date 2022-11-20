@@ -25,6 +25,15 @@ p {
 li {
   list-style-type: disc;
 }
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+caption {
+  background-color: lightblue;
+  text-align: right;
+}
 
 
 
