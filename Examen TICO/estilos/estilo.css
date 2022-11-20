@@ -22,7 +22,7 @@ p {
   font-size:50px;
 }
 ul {
-  font-size: 15px;
+  list-style-type: disc;
 }
 
 
