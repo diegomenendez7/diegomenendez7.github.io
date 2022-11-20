@@ -14,17 +14,10 @@ p {
   box-sizing: content-box;
   border: red 25px solid;
 }
-ol {
-  text-decoration: underline wavy red;
-}
-p {
-  text-decoration-line: underline;
-  text-decoration-style: wavy;
-  text-decoration-color: blue;
-}
 p {
   text-emphasis: triangle red;
 }
+
 
 
 
