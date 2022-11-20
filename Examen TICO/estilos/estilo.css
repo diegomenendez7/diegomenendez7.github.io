@@ -14,7 +14,7 @@ p {
   box-sizing: content-box;
   border: red 25px solid;
 }
-p {
+ol {
   text-decoration: underline wavy red;
 }
 p {
@@ -22,6 +22,10 @@ p {
   text-decoration-style: wavy;
   text-decoration-color: blue;
 }
+p {
+  text-emphasis: triangle red;
+}
+
 
 
 
