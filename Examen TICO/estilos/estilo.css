@@ -7,8 +7,8 @@ p {
   color: red;
 }
 p {
-  width: 200px;
-  height: 100px;
+  width: 250px;
+  height: 150px;
   box-sizing: content-box;
   border: red 25px solid;
 }
@@ -22,7 +22,7 @@ p {
   font-size:50px;
 }
 ul {
-  font-size: smaller;
+  font-size: 15px;
 }
 
 
