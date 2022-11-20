@@ -8,6 +8,13 @@ p {
 p {
   color: red;
 }
+p {
+  width: 200px;
+  height: 100px;
+  box-sizing: content-box;
+  border: red 25px solid;
+}
+
 
 
 
