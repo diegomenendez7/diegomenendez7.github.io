@@ -19,9 +19,11 @@ p {
   line-height: 200%;
 }
 p {
-  font-family: "Segoe UI";
+  font-size: x-large;
 }
-
+ul {
+  font-size: smaller;
+}
 
 
 
