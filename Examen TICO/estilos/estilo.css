@@ -1,9 +1,10 @@
-h1 {
-  color: negro;
-}
+
 
 p {
   color: red;
+}
+span.negrita{
+    font-weight: bold;
 }
 
 
